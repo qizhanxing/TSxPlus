@@ -12,7 +12,7 @@ Modbu TCP参数配置
  | 协议：Modbus TCP从站;
  | 网口写使能：如果Modbus主站需要向TSxPlus系统中写入数据，配置为TRUE;否则配置为FALSE;
  | 数据传输顺序：与主站协商，需配置一致;
- | 允许的IP地址：默认为“0.0.0.0”运行任意IP的主站访问；
+ | 允许的IP地址：默认为“0.0.0.0”，允许任意IP的主站访问；
  
 .. image:: images/MBSLAVE_CM01_NET.gif
 
