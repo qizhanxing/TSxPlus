@@ -32,3 +32,10 @@
 .. image:: images/AI数据转换.png
 
 功能块"AIN_1" :download:`点击下载 <./_static/AIN_1.SFBL>`.
+
+----------------------------------
+
+添加引用库
+
+.. image:: images/添加引用库操作.png
+
