@@ -37,5 +37,5 @@
 
 添加引用库
 
-.. image:: images/添加引用库操作.png
+.. image:: images/添加引用库操作.gif
 
