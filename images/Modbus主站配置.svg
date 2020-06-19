@@ -1,0 +1,500 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1477" viewBox="0 0 1477 924" xmlns:xlink="http://www.w3.org/1999/xlink" height="924">
+    <style type="text/css"><![CDATA[
+.st1 {fill:#000000;font-family:仿宋;font-size:16pt}
+.st3 {fill:#000000;font-family:幼圆;font-size:16pt}
+.st4 {fill:#343236;font-family:幼圆;font-size:10pt}
+.st8 {fill:#343236;font-family:幼圆;font-size:11pt}
+.st5 {fill:#343236;font-family:幼圆;font-size:12pt}
+.st7 {fill:#343236;font-family:幼圆;font-size:14pt}
+.st6 {fill:#857947;font-family:幼圆;font-size:12pt}
+.st2 {text-decoration:underline}
+]]></style>
+    <defs/>
+    <g transform="translate(-83.67,-140.67)">
+        <g id="shape1" transform="translate(85,142)">
+            <path stroke="#000000" d="M0,0L954,0L954,921L0,921L0,0z" stroke-width="1.33333" fill="none" stroke-dasharray="6,4"/>
+            <text class="st1">
+                <tspan x="439" class="st2" y="24">TSxPlus</tspan>
+            </text>
+        </g>
+        <g id="shape2" transform="translate(113,178)">
+            <path d="M0,0L572,0L572,784L0,784L0,0z" stroke="#b2a261" stroke-width="1.33333" fill="#d6dcef" stroke-dasharray="11,5"/>
+            <text class="st1">
+                <tspan x="209" class="st2" y="24">Modbus主站配置</tspan>
+            </text>
+        </g>
+        <g id="shape3" transform="translate(723,293)">
+            <path d="M0,0L297,0L297,294L0,294L0,0z" stroke="#f6f3eb" stroke-width="3" fill="#ebebeb" stroke-dasharray="11,5"/>
+            <text class="st1">
+                <tspan x="77" class="st2" y="24">通讯模块/CM01</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="translate(980.85,352.55)">
+            <path stroke="#000000" d="M8.5,0L478.7,0L478.7,165.4" stroke-width="2.66667" fill="none"/>
+            <path stroke="#000000" d="M0,0L17,4.9L8.5,0L17,-4.9L0,0" stroke-width="1" fill="#000000" stroke-linecap="round"/>
+            <path stroke="#000000" d="M478.7,173.9L483.6,156.9L478.7,165.4L473.8,156.9L478.7,173.9" stroke-width="1" fill="#000000" stroke-linecap="round"/>
+            <rect x="304.4" fill="#ffffff" width="45" y="-11.5" height="23"/>
+            <text class="st3">
+                <tspan x="304.3" y="7.5">网线</tspan>
+            </text>
+        </g>
+        <g id="shape5" transform="translate(980.85,476.69)">
+            <path stroke="#000000" d="M8.5,0L209.2,0L209.2,41.8" stroke-width="2.66667" fill="none"/>
+            <path stroke="#000000" d="M0,0L17,4.9L8.5,0L17,-4.9L0,0" stroke-width="1" fill="#000000" stroke-linecap="round"/>
+            <path stroke="#000000" d="M209.2,50.3L214.1,33.3L209.2,41.8L204.3,33.3L209.2,50.3" stroke-width="1" fill="#000000" stroke-linecap="round"/>
+            <rect x="102.4" fill="#ffffff" width="56.2" y="-11.5" height="23"/>
+            <text class="st3">
+                <tspan x="102.2" y="7.5">RS485</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="translate(1190.03,527)">
+            <path stroke="#000000" d="M0,-8.5L0,-50L136.5,-50L136.5,-8.5" stroke-width="2.66667" fill="none"/>
+            <path stroke="#000000" d="M0,0L4.9,-17L0,-8.5L-4.9,-17L0,0" stroke-width="1" fill="#000000" stroke-linecap="round"/>
+            <path stroke="#000000" d="M136.5,0L141.4,-17L136.5,-8.5L131.6,-17L136.5,0" stroke-width="1" fill="#000000" stroke-linecap="round"/>
+            <rect x="40.9" fill="#ffffff" width="56.2" y="-61.5" height="23"/>
+            <text class="st3">
+                <tspan x="40.8" y="-42.5">RS485</tspan>
+            </text>
+        </g>
+        <g transform="translate(439,593.6)">
+            <path d="M0,0L98,0L98,105.1L0,105.1L0,0z" stroke="#ffffff" stroke-width="1.33333" fill="#ffc000" id="shape7" stroke-dasharray="6,4" transform="translate(101.98,40.33)"/>
+            <g>
+                <g id="shape8" transform="translate(-0,33.66)">
+                    <path stroke="#47454b" d="M85.9,0L0,0M0,120L85.9,120" stroke-width="3" fill="none"/>
+                    <text class="st4">
+                        <tspan x="22.5" y="22">变量名</tspan>
+                        <tspan x="15.5" y="36">--------</tspan>
+                        <tspan x="18.5" y="50">fMBR001</tspan>
+                        <tspan x="18.5" y="64">fMBR002</tspan>
+                        <tspan x="18.5" y="78">fMBR003</tspan>
+                        <tspan x="18.5" y="92">fMBR004</tspan>
+                        <tspan x="18.5" y="106">fMBR005</tspan>
+                    </text>
+                </g>
+                <g id="shape9" transform="translate(86.16,33.66)">
+                    <path stroke="#47454b" d="M128.7,0L0,0M0,120L128.7,120" stroke-width="3" fill="none"/>
+                    <text class="st4">
+                        <tspan x="26.4" y="22">"线圈"/索引</tspan>
+                        <tspan x="19.4" y="36">-------------</tspan>
+                        <tspan x="61.4" y="50">0</tspan>
+                        <tspan x="61.4" y="64">1</tspan>
+                        <tspan x="61.4" y="78">2</tspan>
+                        <tspan x="61.4" y="92">9</tspan>
+                        <tspan x="57.4" y="106">10</tspan>
+                    </text>
+                </g>
+                <g id="shape10" transform="translate(0,0)">
+                    <text class="st5">
+                        <tspan x="55.4" y="20.5">块1/读"设备1"</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(439,427.01)">
+            <path d="M0,0L120,0L120,105.7L0,105.7L0,0z" stroke="#ffffff" stroke-width="1.33333" fill="#65a1b4" id="shape11" stroke-dasharray="6,4" transform="translate(92,40.33)"/>
+            <g>
+                <g id="shape12" transform="translate(-0,33.66)">
+                    <path stroke="#47454b" d="M85.9,0L0,0M0,120L85.9,120" stroke-width="3" fill="none"/>
+                    <text class="st4">
+                        <tspan x="22.5" y="22">变量名</tspan>
+                        <tspan x="15.5" y="36">--------</tspan>
+                        <tspan x="18.5" y="50">fMBR101</tspan>
+                        <tspan x="18.5" y="64">fMBR102</tspan>
+                        <tspan x="18.5" y="78">fMBR103</tspan>
+                        <tspan x="18.5" y="92">fMBR104</tspan>
+                        <tspan x="18.5" y="106">fMBR105</tspan>
+                    </text>
+                </g>
+                <g id="shape13" transform="translate(86.16,33.66)">
+                    <path stroke="#47454b" d="M128.7,0L0,0M0,120L128.7,120" stroke-width="3" fill="none"/>
+                    <text class="st4">
+                        <tspan x="5.4" y="22">"离散量输入"/索引</tspan>
+                        <tspan x="5.4" y="36">-----------------</tspan>
+                        <tspan x="61.4" y="50">0</tspan>
+                        <tspan x="61.4" y="64">1</tspan>
+                        <tspan x="61.4" y="78">2</tspan>
+                        <tspan x="61.4" y="92">9</tspan>
+                        <tspan x="57.4" y="106">10</tspan>
+                    </text>
+                </g>
+                <g id="shape14" transform="translate(0,-0)">
+                    <text class="st5">
+                        <tspan x="54.5" y="20.5">块2/读"设备2"</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(439,764.85)">
+            <path d="M0,0L97,0L97,107.2L0,107.2L0,0z" stroke="#ffffff" stroke-width="1.33333" fill="#00b050" id="shape15" stroke-dasharray="6,4" transform="translate(103.02,39.15)"/>
+            <g transform="translate(0,0)">
+                <g id="shape16" transform="translate(0,33.66)">
+                    <path stroke="#47454b" d="M85.9,0L0,0M0,120L85.9,120" stroke-width="3" fill="none"/>
+                    <text class="st4">
+                        <tspan x="22.5" y="22">变量名</tspan>
+                        <tspan x="15.5" y="36">--------</tspan>
+                        <tspan x="18.5" y="50">fMBW001</tspan>
+                        <tspan x="18.5" y="64">fMBW002</tspan>
+                        <tspan x="18.5" y="78">fMBW003</tspan>
+                        <tspan x="18.5" y="92">fMBW004</tspan>
+                        <tspan x="18.5" y="106">fMBW005</tspan>
+                    </text>
+                </g>
+                <g id="shape17" transform="translate(86.16,33.66)">
+                    <path stroke="#47454b" d="M128.7,0L0,0M0,120L128.7,120" stroke-width="3" fill="none"/>
+                    <text class="st4">
+                        <tspan x="26.4" y="22">"线圈"/索引</tspan>
+                        <tspan x="19.4" y="36">-------------</tspan>
+                        <tspan x="54.4" y="50">100</tspan>
+                        <tspan x="54.4" y="64">101</tspan>
+                        <tspan x="54.4" y="78">102</tspan>
+                        <tspan x="54.4" y="92">109</tspan>
+                        <tspan x="54.4" y="106">110</tspan>
+                    </text>
+                </g>
+                <g id="shape18" transform="translate(0,0)">
+                    <text class="st5">
+                        <tspan x="52" y="20.5">块10/写"设备1"</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(138.43,224.84)">
+            <path d="M0,0L120.5,0L120.5,150.8L0,150.8L0,0z" stroke="#ffffff" stroke-width="1.66667" fill="#afafaf" id="shape19" stroke-dasharray="6,4" transform="translate(90.57,37.16)"/>
+            <g transform="translate(-0,0)">
+                <g id="shape20" transform="translate(0,0)">
+                    <text class="st5">
+                        <tspan x="52" y="20.6">块11/写"设备3"</tspan>
+                    </text>
+                </g>
+            </g>
+            <g transform="translate(0,33.81)">
+                <g id="shape21" transform="translate(0,0)">
+                    <path stroke="#47454b" d="M85.9,0L0,0M0,158.5L85.9,158.5" stroke-width="3" fill="none"/>
+                    <text class="st4">
+                        <tspan x="22.5" y="20.3">变量名</tspan>
+                        <tspan x="15.5" y="34.3">--------</tspan>
+                        <tspan x="18.5" y="48.3">iMBW301</tspan>
+                        <tspan x="18.5" y="62.3">iMBW302</tspan>
+                        <tspan x="18.5" y="76.3">iMBW303</tspan>
+                        <tspan x="18.5" y="90.3">iMBW304</tspan>
+                        <tspan x="18.5" y="104.3">iMBW305</tspan>
+                        <tspan x="18.5" y="118.3">iMBW306</tspan>
+                        <tspan x="18.5" y="132.3">rMBW301</tspan>
+                        <tspan x="18.5" y="146.3">rMBW302</tspan>
+                    </text>
+                </g>
+                <g id="shape22" transform="translate(86.16,0)">
+                    <path stroke="#47454b" d="M128.7,0L0,0M0,158.5L128.7,158.5" stroke-width="3" fill="none"/>
+                    <text class="st4">
+                        <tspan x="5.4" y="20.3">"保持寄存器"/索引</tspan>
+                        <tspan x="5.4" y="34.3">-----------------</tspan>
+                        <tspan x="61.4" y="48.3">0</tspan>
+                        <tspan x="61.4" y="62.3">1</tspan>
+                        <tspan x="61.4" y="76.3">2</tspan>
+                        <tspan x="61.4" y="90.3">3</tspan>
+                        <tspan x="61.4" y="104.3">4</tspan>
+                        <tspan x="61.4" y="118.3">6</tspan>
+                        <tspan x="57.4" y="132.3">50</tspan>
+                        <tspan x="57.4" y="146.3">52</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(133.7,426.43)">
+            <path d="M0,0L121.8,0L121.8,150.4L0,150.4L0,0z" stroke="#ffffff" stroke-width="1.66667" fill="#6680bb" id="shape23" stroke-dasharray="6,4" transform="translate(89.3,36.57)"/>
+            <g>
+                <g id="shape24" transform="translate(0,33.81)">
+                    <path stroke="#47454b" d="M85.9,0L0,0M0,158.5L85.9,158.5" stroke-width="3" fill="none"/>
+                    <text class="st4">
+                        <tspan x="22.5" y="20.3">变量名</tspan>
+                        <tspan x="15.5" y="34.3">--------</tspan>
+                        <tspan x="18.5" y="48.3">iMBR201</tspan>
+                        <tspan x="18.5" y="62.3">iMBR202</tspan>
+                        <tspan x="18.5" y="76.3">iMBR203</tspan>
+                        <tspan x="18.5" y="90.3">iMBR204</tspan>
+                        <tspan x="18.5" y="104.3">iMBR205</tspan>
+                        <tspan x="18.5" y="118.3">iMBR206</tspan>
+                        <tspan x="18.5" y="132.3">rMBR201</tspan>
+                        <tspan x="18.5" y="146.3">rMBR202</tspan>
+                    </text>
+                </g>
+                <g id="shape25" transform="translate(86.16,33.81)">
+                    <path stroke="#47454b" d="M128.7,0L0,0M0,158.5L128.7,158.5" stroke-width="3" fill="none"/>
+                    <text class="st4">
+                        <tspan x="5.4" y="20.3">"输入寄存器"/索引</tspan>
+                        <tspan x="5.4" y="34.3">-----------------</tspan>
+                        <tspan x="61.4" y="48.3">0</tspan>
+                        <tspan x="61.4" y="62.3">1</tspan>
+                        <tspan x="61.4" y="76.3">2</tspan>
+                        <tspan x="61.4" y="90.3">3</tspan>
+                        <tspan x="61.4" y="104.3">4</tspan>
+                        <tspan x="61.4" y="118.3">6</tspan>
+                        <tspan x="57.4" y="132.3">50</tspan>
+                        <tspan x="57.4" y="146.3">52</tspan>
+                    </text>
+                </g>
+                <g id="shape26" transform="translate(0,0)">
+                    <text class="st5">
+                        <tspan x="55.4" y="20.6">块3/读"设备3"</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(133.7,631.67)">
+            <path d="M0,0L121.7,0L121.7,147.7L0,147.7L0,0z" stroke="#ffffff" stroke-width="1.33333" fill="#a179ac" id="shape27" stroke-dasharray="6,4" transform="translate(90.3,39.33)"/>
+            <g>
+                <g id="shape28" transform="translate(0,33.81)">
+                    <path stroke="#47454b" d="M85.9,0L0,0M0,158.5L85.9,158.5" stroke-width="3" fill="none"/>
+                    <text class="st4">
+                        <tspan x="22.5" y="20.3">变量名</tspan>
+                        <tspan x="15.5" y="34.3">--------</tspan>
+                        <tspan x="18.5" y="48.3">iMBR301</tspan>
+                        <tspan x="18.5" y="62.3">iMBR302</tspan>
+                        <tspan x="18.5" y="76.3">iMBR303</tspan>
+                        <tspan x="18.5" y="90.3">iMBR304</tspan>
+                        <tspan x="18.5" y="104.3">iMBR305</tspan>
+                        <tspan x="18.5" y="118.3">iMBR306</tspan>
+                        <tspan x="18.5" y="132.3">rMBR301</tspan>
+                        <tspan x="18.5" y="146.3">rMBR302</tspan>
+                    </text>
+                </g>
+                <g id="shape29" transform="translate(86.16,33.81)">
+                    <path stroke="#47454b" d="M128.7,0L0,0M0,158.5L128.7,158.5" stroke-width="3" fill="none"/>
+                    <text class="st4">
+                        <tspan x="5.4" y="20.3">"保持寄存器"/索引</tspan>
+                        <tspan x="8.4" y="34.3">----------------</tspan>
+                        <tspan x="61.4" y="48.3">0</tspan>
+                        <tspan x="61.4" y="62.3">1</tspan>
+                        <tspan x="61.4" y="76.3">2</tspan>
+                        <tspan x="61.4" y="90.3">3</tspan>
+                        <tspan x="61.4" y="104.3">4</tspan>
+                        <tspan x="61.4" y="118.3">6</tspan>
+                        <tspan x="57.4" y="132.3">50</tspan>
+                        <tspan x="57.4" y="146.3">52</tspan>
+                    </text>
+                </g>
+                <g id="shape30" transform="translate(0,-0)">
+                    <text class="st5">
+                        <tspan x="54.5" y="20.6">块4/读"设备3"</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(767.15,337.43)">
+            <g id="shape31" transform="translate(127.23,-0)">
+                <path d="M86.5,30.2L86.5,0L0,0L0,30.2L86.5,30.2z" stroke="#b2a261" stroke-width="3" fill="#ffffff"/>
+                <text class="st6">
+                    <tspan x="15.2" y="21.1">以太网1</tspan>
+                </text>
+            </g>
+            <g id="shape32" transform="translate(127.23,41.38)">
+                <path d="M86.5,30.2L86.5,0L0,0L0,30.2L86.5,30.2z" stroke="#b2a261" stroke-width="3" fill="#ffffff"/>
+                <text class="st6">
+                    <tspan x="15.2" y="21.1">以太网2</tspan>
+                </text>
+            </g>
+            <g id="shape33" transform="translate(127.23,82.76)">
+                <path d="M86.5,30.2L86.5,0L0,0L0,30.2L86.5,30.2z" stroke="#b2a261" stroke-width="3" fill="#ffffff"/>
+                <text class="st6">
+                    <tspan x="23.2" y="21.1">串口1</tspan>
+                </text>
+            </g>
+            <g id="shape34" transform="translate(127.23,124.15)">
+                <path d="M86.5,30.2L86.5,0L0,0L0,30.2L86.5,30.2z" stroke="#b2a261" stroke-width="3" fill="#ffffff"/>
+                <text class="st6">
+                    <tspan x="23.2" y="21.1">串口2</tspan>
+                </text>
+            </g>
+            <g id="shape35" transform="translate(127.23,165.53)">
+                <path d="M86.5,30.2L86.5,0L0,0L0,30.2L86.5,30.2z" stroke="#b2a261" stroke-width="3" fill="#ffffff"/>
+                <text class="st6">
+                    <tspan x="23.2" y="21.1">串口3</tspan>
+                </text>
+            </g>
+            <g id="shape36" transform="translate(127.23,206.91)">
+                <path d="M86.5,30.2L86.5,0L0,0L0,30.2L86.5,30.2z" stroke="#b2a261" stroke-width="3" fill="#ffffff"/>
+                <text class="st6">
+                    <tspan x="23.2" y="21.1">串口4</tspan>
+                </text>
+            </g>
+            <g id="shape37" transform="translate(-44.15,0.62)">
+                <text class="st7">
+                    <tspan x="30.5" y="10.5">192.168.0.1</tspan>
+                    <tspan x="15.5" y="31.5">Modbus TCP主站</tspan>
+                </text>
+            </g>
+            <g id="shape38" transform="translate(-39.15,124.15)">
+                <text class="st7">
+                    <tspan x="10" y="10.5">RS485,9600,8O1</tspan>
+                    <tspan x="10" y="31.5">Modbus RTU主站</tspan>
+                </text>
+            </g>
+        </g>
+        <path d="M0,0L47,0L47,85L0,85L0,0z" stroke="#b2a261" stroke-width="3" fill="#00b050" id="shape39" transform="translate(1166.03,742)"/>
+        <path d="M0,0L47,0L47,90L0,90L0,0z" stroke="#b2a261" stroke-width="3" fill="#ffc000" id="shape40" transform="translate(1167.03,640)"/>
+        <g id="shape41" transform="translate(1126.03,527)">
+            <path stroke="#47454b" d="M128,0L0,0M0,48L128,48" stroke-width="3" fill="none"/>
+            <text class="st8">
+                <tspan x="44" y="21">设备1</tspan>
+                <tspan x="8" y="38">Modbus RTU从站</tspan>
+            </text>
+        </g>
+        <g id="shape42" transform="translate(1126.03,575.26)">
+            <path stroke="#47454b" d="M128,0L0,0M0,48L128,48" stroke-width="3" fill="none"/>
+            <text class="st5">
+                <tspan x="36" y="21">站号：2</tspan>
+                <tspan x="8" y="39">RS485,9600,8O1</tspan>
+            </text>
+        </g>
+        <g id="shape43" transform="translate(1126.03,623.65)">
+            <path stroke="#47454b" d="M128,0L0,0M0,239.4L128,239.4" stroke-width="3" fill="none"/>
+            <text class="st4">
+                <tspan x="47" y="32.7">00001</tspan>
+                <tspan x="47" y="46.7">00002</tspan>
+                <tspan x="47" y="60.7">00003</tspan>
+                <tspan x="54" y="74.7">...</tspan>
+                <tspan x="47" y="88.7">00010</tspan>
+                <tspan x="47" y="102.7">00011</tspan>
+                <tspan x="54" y="116.7">...</tspan>
+                <tspan x="47" y="130.7">00101</tspan>
+                <tspan x="47" y="144.7">00102</tspan>
+                <tspan x="47" y="158.7">00103</tspan>
+                <tspan x="54" y="172.7">...</tspan>
+                <tspan x="47" y="186.7">00100</tspan>
+                <tspan x="47" y="200.7">00111</tspan>
+                <tspan x="54" y="214.7">...</tspan>
+            </text>
+        </g>
+        <path d="M0,0L47,0L47,90L0,90L0,0z" stroke="#b2a261" stroke-width="3" fill="#65a1b4" id="shape44" transform="translate(1302.03,641)"/>
+        <g id="shape45" transform="translate(1263.03,575.26)">
+            <path stroke="#47454b" d="M127,0L0,0M0,48L127,48" stroke-width="3" fill="none"/>
+            <text class="st5">
+                <tspan x="36" y="21">站号：3</tspan>
+                <tspan x="8" y="39">RS485,9600,8O1</tspan>
+            </text>
+        </g>
+        <g id="shape46" transform="translate(1263.03,623.65)">
+            <path stroke="#47454b" d="M127,0L0,0M0,145.4L127,145.4" stroke-width="3" fill="none"/>
+            <text class="st4">
+                <tspan x="46" y="34.7">10001</tspan>
+                <tspan x="46" y="48.7">10002</tspan>
+                <tspan x="46" y="62.7">10003</tspan>
+                <tspan x="53" y="76.7">...</tspan>
+                <tspan x="46" y="90.7">10010</tspan>
+                <tspan x="46" y="104.7">10011</tspan>
+                <tspan x="53" y="118.7">...</tspan>
+            </text>
+        </g>
+        <g id="shape47" transform="translate(1263.03,527)">
+            <path stroke="#47454b" d="M127,0L0,0M0,48L127,48" stroke-width="3" fill="none"/>
+            <text class="st8">
+                <tspan x="44" y="21">设备2</tspan>
+                <tspan x="8" y="38">Modbus RTU从站</tspan>
+            </text>
+        </g>
+        <path d="M0,0L38,0L38,170L0,170L0,0z" stroke="#b2a261" stroke-width="3" fill="#9b9b9b" id="shape48" transform="translate(1469.03,646)"/>
+        <path d="M0,0L45,0L45,170L0,170L0,0z" stroke="#b2a261" stroke-width="3" fill="#c8aad2" id="shape49" transform="translate(1405.03,828)"/>
+        <path d="M0,0L45,0L45,170L0,170L0,0z" stroke="#b2a261" stroke-width="3" fill="#6680bb" id="shape50" transform="translate(1405.03,647)"/>
+        <g id="shape51" transform="translate(1399.06,573.66)">
+            <path stroke="#47454b" d="M120.9,0L0,0M0,47.2L120.9,47.2" stroke-width="3" fill="none"/>
+            <text class="st5">
+                <tspan x="12.5" y="29.6">192.168.0.10</tspan>
+            </text>
+        </g>
+        <g id="shape52" transform="translate(1398.29,621)">
+            <path stroke="#47454b" d="M60.5,0L0,0M0,401L60.5,401" stroke-width="3" fill="none"/>
+            <text class="st4">
+                <tspan x="20.2" y="22.5">...</tspan>
+                <tspan x="13.2" y="36.5">30001</tspan>
+                <tspan x="13.2" y="50.5">30002</tspan>
+                <tspan x="13.2" y="64.5">30003</tspan>
+                <tspan x="13.2" y="78.5">30004</tspan>
+                <tspan x="13.2" y="92.5">30005</tspan>
+                <tspan x="13.2" y="106.5">30006</tspan>
+                <tspan x="13.2" y="120.5">30007</tspan>
+                <tspan x="20.2" y="134.5">...</tspan>
+                <tspan x="13.2" y="148.5">30051</tspan>
+                <tspan x="13.2" y="162.5">30052</tspan>
+                <tspan x="13.2" y="176.5">30053</tspan>
+                <tspan x="13.2" y="190.5">30054</tspan>
+                <tspan x="20.2" y="204.5">...</tspan>
+                <tspan x="13.2" y="218.5">40001</tspan>
+                <tspan x="13.2" y="232.5">40002</tspan>
+                <tspan x="13.2" y="246.5">40003</tspan>
+                <tspan x="13.2" y="260.5">40004</tspan>
+                <tspan x="13.2" y="274.5">40005</tspan>
+                <tspan x="13.2" y="288.5">40006</tspan>
+                <tspan x="13.2" y="302.5">40007</tspan>
+                <tspan x="20.2" y="316.5">...</tspan>
+                <tspan x="13.2" y="330.5">40051</tspan>
+                <tspan x="13.2" y="344.5">40052</tspan>
+                <tspan x="13.2" y="358.5">40053</tspan>
+                <tspan x="13.2" y="372.5">40054</tspan>
+                <tspan x="20.2" y="386.5">...</tspan>
+            </text>
+        </g>
+        <g id="shape53" transform="translate(1399.06,526.4)">
+            <path stroke="#47454b" d="M120.9,0L0,0M0,47.2L120.9,47.2" stroke-width="3" fill="none"/>
+            <text class="st8">
+                <tspan x="40.5" y="20.6">设备3</tspan>
+                <tspan x="4.5" y="37.6">Modbus TCP从站</tspan>
+            </text>
+        </g>
+        <g id="shape54" transform="translate(1457.79,621)">
+            <path stroke="#47454b" d="M60.5,0L0,0M0,401L60.5,401" stroke-width="3" fill="none"/>
+            <text class="st4">
+                <tspan x="20.2" y="22.5">...</tspan>
+                <tspan x="13.2" y="36.5">40201</tspan>
+                <tspan x="13.2" y="50.5">40202</tspan>
+                <tspan x="13.2" y="64.5">40203</tspan>
+                <tspan x="13.2" y="78.5">40204</tspan>
+                <tspan x="13.2" y="92.5">40205</tspan>
+                <tspan x="13.2" y="106.5">40206</tspan>
+                <tspan x="13.2" y="120.5">40207</tspan>
+                <tspan x="20.2" y="134.5">...</tspan>
+                <tspan x="13.2" y="148.5">40251</tspan>
+                <tspan x="13.2" y="162.5">40252</tspan>
+                <tspan x="13.2" y="176.5">40253</tspan>
+                <tspan x="13.2" y="190.5">40254</tspan>
+                <tspan x="20.2" y="204.5">...</tspan>
+            </text>
+        </g>
+        <path stroke="#454545" d="M0,0L515,0" stroke-width="3.33333" fill="none" id="shape55" transform="matrix(0,1,-1,0,666,429)"/>
+        <path stroke="#000000" d="M0,0L619,0" stroke-width="3.33333" fill="none" id="shape56" transform="matrix(0,1,-1,0,373,224)"/>
+        <path stroke="#000000" d="M0,0L-228.4,-0.7" stroke-width="2.33333" fill="none" id="shape57" stroke-dasharray="2.5,2.5" transform="translate(894.38,476.69)"/>
+        <path stroke="#000000" d="M0,0L-521.4,.5" stroke-width="2" fill="none" id="shape58" stroke-dasharray="2.5,2.5" transform="translate(894.38,352.55)"/>
+        <g id="shape59" transform="translate(1087,501)">
+            <path stroke="#000000" d="M0,0L472,0L472,562L0,562L0,0z" stroke-width="1.33333" fill="none" stroke-dasharray="6,4"/>
+            <text class="st1">
+                <tspan x="159" class="st2" y="554">第三方从站设备</tspan>
+            </text>
+        </g>
+        <g id="shape60" transform="translate(1088.03,178.67)">
+            <path stroke="#47454b" d="M113,0L0,0M0,120L113,120" stroke-width="3" fill="none"/>
+            <text class="st5">
+                <tspan x="28.5" y="21">TSxPlus</tspan>
+                <tspan x="4.5" y="39">-------------</tspan>
+                <tspan x="8.5" y="57">线圈       0</tspan>
+                <tspan x="8.5" y="75">离散量输入 0</tspan>
+                <tspan x="8.5" y="93">输入寄存器 0</tspan>
+                <tspan x="8.5" y="111">保持寄存器 0</tspan>
+            </text>
+        </g>
+        <g id="shape61" transform="translate(1202,178.67)">
+            <path stroke="#47454b" d="M113,0L0,0M0,120L113,120" stroke-width="3" fill="none"/>
+            <text class="st5">
+                <tspan x="45" y="21">PLC</tspan>
+                <tspan x="9" y="39">------------</tspan>
+                <tspan x="37" y="57">00001</tspan>
+                <tspan x="37" y="75">10001</tspan>
+                <tspan x="37" y="93">30001</tspan>
+                <tspan x="37" y="111">40001</tspan>
+            </text>
+        </g>
+        <g id="shape62" transform="translate(1088.03,145.01)">
+            <text class="st7">
+                <tspan x="8" y="21">两种形式地址的对应关系</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
