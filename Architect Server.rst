@@ -1,6 +1,9 @@
 Architect Server
 ================
 
+配置变量"OPC"属性
+--------------------------------------------------------------------
+
 | 首先在Architect Program软件中配置变量的“OPC”属性；
 | “生成”操作，更新Architect Server软件配置所需要的".opc.csv"文件；
 | “下装”操作，配置在控制中生效；
@@ -10,6 +13,7 @@ Architect Server
 -------------------------------------------------------------------------------------------------------
 
 配置Architect Server
+--------------------------------------------------------------------
 
 .. image:: images/ArchitectServer配置.gif
 
@@ -25,10 +29,16 @@ Architect Server
 
 -------------------------------------------------------------------------------------------------------
 
-使用第三方的OPC Client，测试OPC Server(Architect Server是否工作正常)
+第三方Client测试
+--------------------------------------------------------------------
+
+使用第三方的OPC Client，测试OPC Server(Architect Server)是否工作正常:
 
 .. image:: images/MatrikonOPCExplorer使用.gif
 
-如果Quality列显示不是Good，说明Architect Server与TSxPlus通讯不正常，应检查Architect Server配置和PC与TSxPlus的网络连接是否正常。
+| 如果Quality列显示不是Good，说明Architect Server与TSxPlus通讯不正常，应：
+
+   | 1. 检查Architect Server配置是否正确；
+   | 2. PC与TSxPlus的网络连接是否正常;
 
 
