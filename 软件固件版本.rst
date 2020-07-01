@@ -8,3 +8,8 @@
 .. include:: 版本_硬件固件.rst
 
 .. include:: 下载链接.rst
+
+.. include:: 历史版本及兼容性.rst
+
+.. include:: 软件加密狗说明.rst
+
