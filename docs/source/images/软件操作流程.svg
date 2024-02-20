@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="654" xmlns:xlink="http://www.w3.org/1999/xlink" width="706" viewBox="0 0 706 654">
+    <style type="text/css"><![CDATA[
+.st2 {fill:#303030;font-family:宋体;font-size:10pt}
+.st3 {fill:#303030;font-family:宋体;font-size:8pt}
+.st1 {fill:#ffffff;font-family:Arial;font-size:10pt}
+]]></style>
+    <defs/>
+    <g transform="translate(-192,-818.77)">
+        <g transform="translate(264.31,819.77)" id="shape1">
+            <path stroke="#4565ab" d="M18.9,37.8L94.5,37.8C104.9,37.8,113.4,29.3,113.4,18.9C113.4,8.5,104.9,0,94.5,0L18.9,0C8.5,0,0,8.5,0,18.9C0,29.3,8.5,37.8,18.9,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="18.2" y="23.9">打开工程文件</tspan>
+            </text>
+        </g>
+        <g transform="translate(264.31,888.2)" id="shape2">
+            <path stroke="#4565ab" d="M113.4,37.8L113.4,0L0,0L0,37.8L113.4,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="16.2" y="23.9">修改程序/配置</tspan>
+            </text>
+        </g>
+        <g transform="translate(321,857.56)" id="shape3">
+            <path stroke="#031828" d="M0,0L0,26.3" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M0,30.6L3,25.4C2.1,26,1.1,26.3,0,26.3C-1.1,26.3,-2.1,26,-3,25.4L0,30.6" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(264.31,956.64)" id="shape4">
+            <path stroke="#4565ab" d="M113.4,37.8L113.4,0L0,0L0,37.8L113.4,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="44.2" y="23.9">生成</tspan>
+            </text>
+        </g>
+        <g transform="translate(321,926)" id="shape5">
+            <path stroke="#031828" d="M0,0L-0,26.3" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M-0,30.6L3,25.4C2.1,26,1.1,26.3,-0,26.3C-1.1,26.3,-2.1,26,-3,25.4L-0,30.6" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(264.31,1025.08)" id="shape6">
+            <path stroke="#4565ab" d="M113.4,37.8L113.4,0L0,0L0,37.8L113.4,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="37.2" y="23.9">登录站</tspan>
+            </text>
+        </g>
+        <g transform="translate(321,994.44)" id="shape7">
+            <path stroke="#031828" d="M0,0L0,26.3" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M0,30.6L3,25.4C2.1,26,1.1,26.3,0,26.3C-1.1,26.3,-2.1,26,-3,25.4L0,30.6" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(264.31,1093.52)" id="shape8">
+            <path stroke="#4565ab" d="M113.4,37.8L113.4,0L0,0L0,37.8L113.4,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="31.2" y="23.9">在线下装</tspan>
+            </text>
+        </g>
+        <g transform="translate(321,1062.88)" id="shape9">
+            <path stroke="#031828" d="M0,0L0,26.3" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M0,30.6L3,25.4C2.1,26,1.1,26.3,0,26.3C-1.1,26.3,-2.1,26,-3,25.4L0,30.6" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(264.31,1228.2)" id="shape10">
+            <path stroke="#4565ab" d="M113.4,37.8L113.4,0L0,0L0,37.8L113.4,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="31.2" y="14.9">监视程序</tspan>
+                <tspan x="18.2" y="32.9">查看变量的值</tspan>
+            </text>
+        </g>
+        <g transform="translate(321,1131.32)" id="shape11">
+            <path stroke="#031828" d="M0,0L-0,92.5" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M-0,96.9L3,91.7C2.1,92.2,1.1,92.5,-0,92.5C-1.1,92.5,-2.1,92.2,-3,91.7L-0,96.9" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(264.31,1296.64)" id="shape12">
+            <path stroke="#4565ab" d="M113.4,37.8L113.4,0L0,0L0,37.8L113.4,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="16.2" y="23.9">禁用/使能变量</tspan>
+            </text>
+        </g>
+        <g transform="translate(264.31,1365.08)" id="shape13">
+            <path stroke="#4565ab" d="M113.4,37.8L113.4,0L0,0L0,37.8L113.4,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="37.2" y="23.9">登出站</tspan>
+            </text>
+        </g>
+        <g transform="translate(264.31,1433.52)" id="shape14">
+            <path stroke="#4565ab" d="M18.9,37.8L94.5,37.8C104.9,37.8,113.4,29.3,113.4,18.9C113.4,8.5,104.9,0,94.5,0L18.9,0C8.5,0,0,8.5,0,18.9C0,29.3,8.5,37.8,18.9,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="18.2" y="23.9">关闭工程文件</tspan>
+            </text>
+        </g>
+        <g transform="translate(321,1266)" id="shape15">
+            <path stroke="#031828" d="M0,0L0,26.3" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M0,30.6L3,25.4C2.1,26,1.1,26.3,0,26.3C-1.1,26.3,-2.1,26,-3,25.4L0,30.6" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(321,1334.44)" id="shape16">
+            <path stroke="#031828" d="M0,0L0,26.3" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M0,30.6L3,25.4C2.1,26,1.1,26.3,0,26.3C-1.1,26.3,-2.1,26,-3,25.4L0,30.6" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(321,1402.88)" id="shape17">
+            <path stroke="#031828" d="M0,0L0,26.3" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M0,30.6L3,25.4C2.1,26,1.1,26.3,0,26.3C-1.1,26.3,-2.1,26,-3,25.4L0,30.6" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(264.31,1383.98)" id="shape18">
+            <path stroke="#031828" d="M0,0L-32,0L-32,-476.9L-4.4,-476.9" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M0,-476.9L-5.2,-479.9C-4.7,-479,-4.4,-478,-4.4,-476.9C-4.4,-475.8,-4.7,-474.8,-5.2,-473.9L0,-476.9" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(264.31,1452.42)" id="shape19">
+            <path stroke="#031828" d="M0,0L-66.3,0L-66.3,-613.8L-4.4,-613.8" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M0,-613.8L-5.2,-616.8C-4.7,-615.9,-4.4,-614.9,-4.4,-613.8C-4.4,-612.7,-4.7,-611.6,-5.2,-610.8L0,-613.8" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(524,956.64)" id="shape20">
+            <path stroke="#4565ab" d="M113.4,37.8L113.4,0L0,0L0,37.8L113.4,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="31.2" y="23.9">重新生成</tspan>
+            </text>
+        </g>
+        <g transform="translate(524,1025.08)" id="shape21">
+            <path stroke="#4565ab" d="M113.4,37.8L113.4,0L0,0L0,37.8L113.4,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="37.2" y="23.9">登录站</tspan>
+            </text>
+        </g>
+        <g transform="translate(524,1093.52)" id="shape22">
+            <path stroke="#4565ab" d="M113.4,37.8L113.4,0L0,0L0,37.8L113.4,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="37.2" y="23.9">全下装</tspan>
+            </text>
+        </g>
+        <g transform="translate(377.69,907.1)" id="shape23">
+            <path stroke="#031828" d="M0,0L203,0L203,45.1" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M203,49.5L206,44.3C205.1,44.9,204.1,45.1,203,45.1C201.9,45.1,200.9,44.9,200,44.3L203,49.5" fill="#031828" stroke-width="1"/>
+            <rect x="61.4" y="-15" height="15" fill="#ffffff" width="133.9"/>
+            <rect x="60.4" y="0" height="15" fill="#ffffff" width="134.9"/>
+            <text class="st2">
+                <tspan x="61.3" y="-3">1-未全下装过的工程或</tspan>
+                <tspan x="60.3" y="12">2-切换到"全下装状态"</tspan>
+            </text>
+        </g>
+        <g transform="translate(580.69,994.44)" id="shape24">
+            <path stroke="#031828" d="M0,0L0,26.3" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M0,30.6L3,25.4C2.1,26,1.1,26.3,0,26.3C-1.1,26.3,-2.1,26,-3,25.4L0,30.6" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(580.69,1062.88)" id="shape25">
+            <path stroke="#031828" d="M0,0L0,26.3" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M0,30.6L3,25.4C2.1,26,1.1,26.3,0,26.3C-1.1,26.3,-2.1,26,-3,25.4L0,30.6" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(783.69,1025.08)" id="shape26">
+            <path stroke="#4565ab" d="M113.4,37.8L113.4,0L0,0L0,37.8L113.4,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="37.2" y="23.9">登录站</tspan>
+            </text>
+        </g>
+        <g transform="translate(377.69,838.66)" id="shape27">
+            <path stroke="#031828" d="M0,0L462.7,0L462.7,182" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M462.7,186.4L465.7,181.2C464.8,181.7,463.8,182,462.7,182C461.6,182,460.6,181.7,459.7,181.2L462.7,186.4" fill="#031828" stroke-width="1"/>
+            <rect x="194.7" y="-7.5" height="15" fill="#ffffff" width="265.7"/>
+            <text class="st2">
+                <tspan x="194.6" y="4.5">若成功下装后，文件没有修改，可直接登录站</tspan>
+            </text>
+        </g>
+        <g transform="matrix(0,1,-1,0,784,1065.2)" id="shape28">
+            <path stroke="#031828" d="M14.5,141L28.3,203.3M29,89.6L29,141L0,141L0,89.6" fill="none"/>
+            <text transform="matrix(0,-1,1,0,14.5,14.5)" class="st3">
+                <tspan x="-111.5" y="3.5">控制器必须在STOP状态</tspan>
+            </text>
+        </g>
+        <g transform="translate(524,1162)" id="shape29">
+            <path stroke="#4565ab" d="M113.4,37.8L113.4,0L0,0L0,37.8L113.4,37.8z" fill="#4565ab"/>
+            <text class="st1">
+                <tspan x="31.2" y="23.9">运行程序</tspan>
+            </text>
+        </g>
+        <g transform="translate(580.69,1131.32)" id="shape30">
+            <path stroke="#031828" d="M0,0L0,26.3" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M0,30.7L3,25.5C2.1,26,1.1,26.3,0,26.3C-1.1,26.3,-2.1,26,-3,25.5L0,30.7" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(580.69,1199.8)" id="shape31">
+            <path stroke="#031828" d="M0,0L0,47.3L-198.6,47.3" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M-203,47.3L-197.8,50.3C-198.3,49.4,-198.6,48.4,-198.6,47.3C-198.6,46.2,-198.3,45.2,-197.8,44.3L-203,47.3" fill="#031828" stroke-width="1"/>
+        </g>
+        <g transform="translate(840.39,1062.88)" id="shape32">
+            <path stroke="#031828" d="M0,0L0,184.2L-255.3,184.2" fill="none"/>
+            <path stroke-linecap="round" stroke="#031828" d="M-259.7,184.2L-254.5,187.2C-255,186.3,-255.3,185.3,-255.3,184.2C-255.3,183.1,-255,182.1,-254.5,181.2L-259.7,184.2" fill="#031828" stroke-width="1"/>
+        </g>
+    </g>
+</svg>

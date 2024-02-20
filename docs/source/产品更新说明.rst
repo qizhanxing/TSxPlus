@@ -1,0 +1,10 @@
+产品更新说明
+------------------------------
+
+TSxPlus更新内容，请登录“中国自动化大数据平台”查看。平台软件下载二维码如下：
+
+.. image:: images/CAGIOT_QR_CODE.jpg
+
+产品公告路径如下：
+
+.. image:: images/CAGIOT_TSxPlus_PRN.jpg
