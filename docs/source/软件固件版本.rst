@@ -13,4 +13,5 @@
 
 .. include:: 软件加密狗说明.rst
 
-.. include:: 产品更新说明.rst
+..
+ .. include:: 产品更新说明.rst
